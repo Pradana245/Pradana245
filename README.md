@@ -8,6 +8,7 @@ Saya juga sangat tertarik dengan **UI/UX**, dan pernah menjadi **UI Design** pad
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/pradana-wahyu-hidayanto)ku ya.
 
+### Github Statistic
 <p align="left">
 <a href="https://github.com/Pradana245">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pradana245&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
